@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenneth72x
 - 👀 I’m interested in web development, iOS programming, eventually leading up to MacOS development. I like all things Apple.  
-- 🌱 I’m currently learning a full stack web development with python. 
+- 🌱 I’m currently learning Full Stack Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

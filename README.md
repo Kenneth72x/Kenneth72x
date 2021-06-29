@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kenneth72x
-- 👀 I’m interested in web development, iOS development with Swift. I like all things Apple.  
+- 👀 I’m interested in web development and iOS development with Swift. I like all things Apple.  
 - 🌱 I’m currently a full-stack engineer in Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
